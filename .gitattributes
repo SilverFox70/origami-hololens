@@ -1,0 +1,6 @@
+.dll filter=lfs diff=lfs merge=lfs -text
+.pdb filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.pdb filter=lfs diff=lfs merge=lfs -text
+App/Origami/bin/x86/Debug/UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+App/Origami/bin/x86/Debug/UnityPlayer_UAP_x86_Debug_dotnet.pdb filter=lfs diff=lfs merge=lfs -text
